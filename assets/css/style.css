@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500&display=swap');
 
 :root {
-    --linear-gradient: linear-gradient(90deg, #38bdf8, #6d28d9, #4c1d95);
+    --background: rgb(176,62,204);
+background: linear-gradient(90deg, rgba(176,62,204,1) 0%, rgba(0,177,177,1) 10%, rgba(129,41,151,1) 21%, rgba(73,167,177,1) 37%, rgba(81,28,154,1) 62%, rgba(75,181,197,1) 83%, rgba(187,41,204,1) 100%);
 }
 
 * {
